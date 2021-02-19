@@ -1,5 +1,5 @@
 # Tic-Tac-Toe-GUI
-A gui tic-tac-toe gmae made using kivy in python
+A gui tic-tac-toe game made using kivy in python
 ## Screenshots
 <p align="center">
 <img width=500 src="/images/empty_board.png">
